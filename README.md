@@ -4,10 +4,10 @@
 I am a robotics engineering student passionate about **Flight Software**, **GNC**, and **Embedded Systems**. I have experience working on the lunar rover at **Canadensys Aerospace**, and have some **Software/Electronics** uinversity projects below for you to check out! :)
 
 ### 🔭 Project Highlights
-* **[EV Torque Vectoring](../EV-Torque-Vectoring-Control):** Real-time control systems for electric vehicle stability.
-* **[Autonomous Logistics Robot](../ROS2-Localization-Robot):** ROS2 navigation with Particle Filters adn LiDAR.
-* **[STM32 "Desk Buddy" WALL-E Robot](../WALL-E-Desk-Buddy):** Implemented in STMCubeIDE.
-* **[LSTM Sentiment Analysis](../LSTM-Sentiment-Analysis):** Sentiment Analysis on News Articles headers.
+* **[EV Torque Vectoring](https://github.com/mariia-ostr/EV-Torque-Vectoring-Control):** Real-time control systems for electric vehicle stability.
+* **[Autonomous Logistics Robot](https://github.com/mariia-ostr/ROS2-Localization-Robot):** ROS2 navigation with Particle Filters adn LiDAR.
+* **[STM32 "Desk Buddy" WALL-E Robot](https://github.com/mariia-ostr/WALL-E-Desk-Buddy):** Implemented in STMCubeIDE.
+* **[LSTM Sentiment Analysis](https://github.com/mariia-ostr/LSTM-Sentiment-Analysis):** Sentiment Analysis on News Articles headers.
 
 ### 🌱 Current Work
 I'm currently working on my thesis project in **MedCVR** lab at University of Toronto Missisauga that focuses on implementation of **Optical Coherence Tomography (OCT)** as an imaging system for **robot-controlled soft tissue surgeries**.
